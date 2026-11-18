@@ -1,3 +1,11 @@
+# venv folders
+bin/
+etc/
+include/
+lib64/
+share/
+pyvenv.cfg
+
 *.bundle.*
 lib/
 node_modules/
