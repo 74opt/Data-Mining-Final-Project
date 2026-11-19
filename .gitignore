@@ -4,10 +4,11 @@ etc/
 include/
 lib64/
 share/
-pyvenv.cfg
+*.cfg
 
 *.bundle.*
 lib/
+lib64
 node_modules/
 *.egg-info/
 .ipynb_checkpoints
