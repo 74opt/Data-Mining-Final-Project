@@ -1,5 +1,8 @@
 # Notes For Project
 
+## Important Links
+[GDELT Via Google BigQuery](https://console.cloud.google.com/marketplace/details/the-gdelt-project/gdelt-2-events?filter=solution-type:dataset&id=a41570ce-2ee5-444c-80d8-1dd6ee6602ad&project=gdelt-515204)
+
 ## Ideas
 
 - American news outlets and how events have swayed political opinion (quantified by voting (tentative))
